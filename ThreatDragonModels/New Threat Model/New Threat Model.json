@@ -1,0 +1,32 @@
+{
+  "version": "2.6.2",
+  "release_version": "lk",
+  "released_at": "2026-11-11",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "lk;m",
+    "description": "kujln",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "raghav"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "l m,.",
+    "threatTop": 0
+  }
+}
